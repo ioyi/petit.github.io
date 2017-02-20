@@ -1,0 +1,54 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    z-index: 100;
+    font-family: Sansita, sans-serif;
+    border: 0;
+    
+}   
+header {
+    text-align: center;
+    background-color: grey;
+    color: turquoise;
+    font: 20px Sans-serif;
+    padding: 20px 10px;
+    
+}
+
+body {
+    background-image:url('petit-cafe1.jpg');
+}
+
+aside {
+    font-size:10px;
+    text-align: center;
+    color:antiquewhite;
+    float:right;
+}
+
+nav {
+    font-size:20px;
+    background-color:grey;
+    width:275px;
+    height:700px;
+    display: inline-block;
+    position:absolute;
+    left:0px;
+    
+}
+a { 
+    color:turquoise;
+    display: block;
+    padding:30px;
+    text-decoration: none;
+}
+
+ nav a:hover {
+    background-color: turquoise;
+    color: gray;
+}
+
+
+
+ 

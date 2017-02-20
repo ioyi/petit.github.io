@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!--este es mi primer documento html-->
+<html>
+    <head>
+    
+    <title>-PETIT CAFE- "comida casera"</title>
+    <link href="petit-cafe.css" rel="stylesheet" type="text/css">
+    
+    </head>
+<body>
+    <h1 id="encabezado">hola</h1>
+    <p>hola</p>
+    <p 
+</body>
+</html>
